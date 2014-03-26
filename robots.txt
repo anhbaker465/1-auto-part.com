@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Disallow: /car_11/
+Sitemap: http://www.1-auto-part.com/sitemap.xml 
